@@ -1,0 +1,6 @@
+- id: delete_everything
+  name: Delete Everything
+  description: This hook will seriously delete everything you're trying to commit, don't use it
+  entry: delete_everything
+  language: script
+  types: [text]
